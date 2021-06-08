@@ -1,6 +1,4 @@
-*{
-    margin: auto;
-}
+
 body{
     background-color: black;
     color: white;
@@ -18,6 +16,12 @@ a{
 h2{
     font-weight: 300;
     font-size: 42px;
+}
+img{
+    margin-top: 10px;
+}
+video{
+    margin-top: 10px;
 }
 p{
     color: grey;
